@@ -1,1 +1,1 @@
-# Strins
+# Strings
